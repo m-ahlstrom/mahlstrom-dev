@@ -1,0 +1,82 @@
+.sidebar {
+	line-height: 1.4;
+	padding: 0.6rem 0.6rem;
+}
+
+.sidebar h1 {
+	font-size: 35px;
+}
+
+.sidebar p {
+	font-size: 20px;
+}
+
+.sidebar .bullet {
+	font-size: 15px;
+}
+
+.sidebar .footnote {
+	font-size: 15px;
+}
+
+@media (min-width: 768px) and (max-width: 1680px) {
+	.sidebar img {
+		margin-top: -2.7rem;
+	}
+	.sidebar .btn-light-dark {
+		margin-right: -1rem;
+	}
+}
+
+@media (min-width: 768px) {
+	.footer-mobile {
+		display: none;
+	}
+}
+
+@media (max-width: 768px) {
+	.content {
+		overflow-x: hidden;
+	}
+	.sidebar img {
+		width: 120px;
+		height: auto;
+		margin-top: -3.5rem;
+	}
+	.sidebar h1 {
+		font-size: 35px;
+	}
+	.sidebar .bullet {
+		display: none;
+	}
+	.sidebar .sub-heading {
+		display: none;
+	}
+	.sidebar .heading {
+		display: inline;
+		margin-right: 1rem;
+		margin-left: 1rem;
+		font-size: 18px;
+	}
+	.sidebar .social {
+		display: none;
+	}
+	.sidebar .footnote {
+		display: none;
+	}
+	.footer-mobile {
+		text-align: center;
+		justify-content: center;
+		background-color: #202020;
+		padding-top: 2rem;
+		padding-bottom: 1rem;
+	}
+	.footer-mobile .social {
+		font-size: 22px;
+		margin-right: 0.35rem;
+		margin-left: 0.35rem;
+	}
+	.footer-mobile .footnote {
+		font-size: 12px;
+	}
+}
