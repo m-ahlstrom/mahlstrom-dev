@@ -3,7 +3,7 @@ title = 'Some Problem Solving Tidbits on Windows'
 date = 2024-04-20T18:47:14+02:00
 series = "System Administration"
 tags = ["Windows", "MS365", "Virtualization"]
-summary = "Working with Windows can be quite the chore and the user (not to mention the administrator) can face many unique and mysterious challenges. I gathered here some problems I faced during my time as a system administrator with the way to solve each. These issues are completely unrelated, the only thing that connects them is that they are specific to Windows and Microsoft products."
+summary = "Working with Windows can be quite the chore. The user, not to mention the administrator, can face many unique and mysterious challenges. I gathered here some problems I faced during my time as a system administrator with the way to solve each. These issues are completely unrelated. The only thing that connects them is that they are specific to Windows and Microsoft products."
 +++
 
 ## [Table of Contents]
