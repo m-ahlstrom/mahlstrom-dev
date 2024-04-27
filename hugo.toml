@@ -1,6 +1,6 @@
 baseURL = 'https://mahlstrom.dev/'
 languageCode = 'en-us'
-paginate = 10
+paginate = 7 # Equals the number of chapters in Kundera's novels.
 pluralizelisttitles = false
 
 [params]
@@ -8,9 +8,9 @@ pluralizelisttitles = false
     brand_image = "/images/mahlstrom-profile-new.jpeg"
     description = "Hey, I'm Martin. Web developer, Arch user, cybersecurity enthusiast. This is my blog."
     dark_mode = true
-    favicon = "/icon-open-source.png"
+    favicon = "/icons/icon-open-source.png"
 
-    front_page_content = ["posts"] # Equivalent to the default value, add page bundle names to include them on the front page.
+    front_page_content = ["posts"]
 
     menu = [
         {Name = "About Me", URL = "/about/", HasChildren = false},
