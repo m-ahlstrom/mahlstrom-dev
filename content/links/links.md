@@ -30,7 +30,6 @@ The following newspapers/blogs all produce quality content. Most of the time you
 The following is a collection of articles I find an important read or find the ideas interesting enough to try them once I get there.
 
 - [3 tribes of programming](https://josephg.com/blog/3-tribes/)
-- [5 Minutes Vim](https://www.barbarianmeetscoding.com/series/5-minutes-vim/)
 - [Challenging algorithms and data structures every programmer should try](https://austinhenley.com/blog/challengingalgorithms.html)
 - [Challenging projects every programmer should try](https://austinhenley.com/blog/challengingprojects.html)
 - [Continuous Integration](https://martinfowler.com/articles/continuousIntegration.html)
@@ -40,6 +39,7 @@ The following is a collection of articles I find an important read or find the i
 - [Programming is Hard, Let's Go Scripting...](https://www.perl.com/pub/2007/12/06/soto-11.html/)
 - [Spotify engineering culture (part 1)](https://engineering.atspotify.com/2014/03/spotify-engineering-culture-part-1/)
 - [Spotify engineering culture (part 2)](https://engineering.atspotify.com/2014/09/spotify-engineering-culture-part-2/)
+- [The Importance of Test Failure](https://web.archive.org/web/20230328233424/http://www.sustainabletdd.com:80/2012/03/importance-of-test-failure.html)
 - [What Every Programmer Should Know About Memory](https://www.akkadia.org/drepper/cpumemory.pdf)
 
 ## Cybersecurity
