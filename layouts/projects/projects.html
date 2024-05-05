@@ -2,18 +2,17 @@
 {{ if .Site.Params.light_dark }}
     {{ partial "light_dark.html" . }}
 {{ end }}
-<h1 class="title">{{ .Title }}</h1>
-<div class="posts">
-    {{ range .Paginator.Pages }}
-        <div class="project">
-            <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-            <p>
-                {{ if .Params.featuredImage }}
-                    <img src="{{ .Params.featuredImage }}"><br>
-                {{ end }}
-                {{ .Summary }}
-            </p>
-        </div>
+<div class="post">
+    {{ with .Site.GetPage "/projects" }}
+        {{ if .Pages }}
+            {{ range .Pages }}
+                <h1 class="post-title">{{ .Title }}</h1>
+                {{ .Content }}
+            {{ end }}
+        {{ else }}
+            <h1 class="post-title">{{ .Title }}</h1>
+            {{ .Content }}
+        {{ end }}
     {{ end }}
 </div>
 {{ end }}
