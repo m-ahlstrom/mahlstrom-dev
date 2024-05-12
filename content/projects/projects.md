@@ -28,4 +28,4 @@ A basic CMS built with **PHP** from scratch. Register a user, login, logout. Cre
 
 [Yelp Camp Europe v1](https://github.com/m-ahlstrom/yelp-camp-europe)
 
-A campground booking app built with **Node.js**, **Express.js** and **MongoDB**. This project is currently **in development**. Everything is functional: the basics of the authentication system, campground creation, reviews. What it needs is a little polishing, adding extra features. Deployed to Vercel, [check it out in action](https://yelp-camp-europe.vercel.app/).
+A campground booking app built with **Node.js**, **Express.js** and **MongoDB**. This project is currently **in development**. Everything is functional: the basics of the authentication system, campground creation, reviews. What it needs is a little polishing, adding extra features. Deployed to **Vercel**, [check it out in action](https://yelp-camp-europe.vercel.app/).
