@@ -4,7 +4,7 @@ date = 2024-04-20T20:08:34+02:00
 layout = 'single'
 +++
 
-Links to resources I find useful/entertaining. I collect these here so that they are within reach for me and for others. It's also a form of exhibitionism to give readers a picture about myself through the things I like and find interesting.
+Links to resources I find useful/entertaining. I collect these here so that they are within reach for me and for others. It's also a form of exhibitionism to give readers a picture about me through the things I like and find interesting.
 
 Keep in mind, that on this site I focus on programming and cybersecurity. So below you won't find anything related to my other personal interests (e. g. philosophy or gaming). Those will get their own place – in time.
 
