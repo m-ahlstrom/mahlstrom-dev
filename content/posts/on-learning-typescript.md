@@ -18,7 +18,7 @@ summary = "Summarizing what TypeScript is after finishing the TypeScript path of
 
 ## 1. What is tsc?
 
-TypeScript is really just **JavaScript with types**. One the other hand however, this _with types_ makes it a whole lot different. Therefore the main difference between the two is that JavaScript is a dynamically typed, whereas TypeScript is a statically typed language. At least during development. Because **at runtime** TypeScript **really is just JavaScript** without any of the additional features.
+TypeScript is really just **JavaScript with types**. On the other hand however, this _with types_ makes it a whole lot different. Therefore the main difference between the two is that JavaScript is a dynamically typed, whereas TypeScript is a statically typed language. At least during development. Because **at runtime** TypeScript **really is just JavaScript** without any of the additional features.
 
 The reason behind this is that before we could run TypeScript in the browser, we must compile it to regular JavaScript, so that the browser can understand and run it. Here comes **tsc**, the **TypeScript Compiler** and **CLI tool** that makes this work for us. Technically the TypeScript Compiler is more like a transpiler. Compilers (like _gcc_) translate a language to another language, while transpilers (like _Babel_) translate to a different version of the same language. But I will refer to this as compilation throughout this article.
 
@@ -395,7 +395,7 @@ type ExtractSubjectType<T> = T extends { subject: infer U }
 	? T["subject"]
 	: never;
 
-interface EpistenologySubject {
+interface EpistemologySubject {
 	subject: "epistemology";
 }
 
