@@ -2,6 +2,7 @@ const maxWindowSize = window.matchMedia("(max-width: 768px)");
 const minWindowSize = window.matchMedia("(min-width: 768px)");
 
 const footerMobile = document.querySelector(".footer-mobile");
+const wrapperMobile = document.querySelector(".wrapper");
 
 // Initial state when site is loaded.
 
@@ -10,7 +11,6 @@ if (minWindowSize.matches) {
 }
 
 if (maxWindowSize.matches) {
-	const wrapperMobile = document.querySelector(".wrapper");
 	wrapperMobile.appendChild(footerMobile);
 }
 
@@ -20,7 +20,6 @@ function removeOrAdddFooter() {
 	if (minWindowSize.matches) {
 		footerMobile.remove();
 	} else if (maxWindowSize.matches) {
-		const wrapperMobile = document.querySelector(".wrapper");
 		wrapperMobile.appendChild(footerMobile);
 	}
 }
