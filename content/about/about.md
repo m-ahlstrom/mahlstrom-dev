@@ -6,7 +6,7 @@ layout = 'single'
 
 ## Welcome to my blog
 
-I am a web developer, mostly using technologies like Node.js, TypeScript, React and Svelte. I am continuously improving my knowledge in the areas of web development and web security, whether it is learning how to make specific things in the browser, how to write secure and maintainable APIs in TypeScript or identifying how web applications get exploited. Currently I'm focusing on learning testing and writing tests for React and Svelte for applications.
+I am a web developer, mostly using technologies like Node.js, TypeScript, React and Svelte. I am continuously improving my knowledge in the areas of web development and web security, whether it is learning how to make specific things in the browser, how to write secure and maintainable APIs in TypeScript or identifying how web applications get exploited. Currently I'm focusing on learning testing and writing tests for React and Svelte applications.
 
 My main areas of interest are: 1, web development 2, low level programming and 3, cybersecurity.
 
