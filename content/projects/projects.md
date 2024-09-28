@@ -8,13 +8,13 @@ These are the projects I have built so far. This list contains only my hobby pro
 
 ## 2024
 
-## [Adopt Me - Pet Adoption Site](https://github.com/m-ahlstrom/adopt-me-react)
+[Adopt Me - Pet Adoption Site](https://github.com/m-ahlstrom/adopt-me-react)
 
-A pet adoption site built with React. Currently working on migrating the whole project to the real Petfinder API, Tailwind CSS and TypeScript. And writing solid tests.
+A pet adoption site written in **React**. Search for pets waiting to be adopted. Get detailed information on them before you make your choice. Custom pagination and dark mode components. Technologies used: **Vite**, **React**, **Redux**, **Tailwind CSS**, **TypeScript**, **React Testing Library**, **Vitest**. Deployed to **Vercel**, [check it out in action](https://adopt-me-react-lake.vercel.app/).
 
-## [API Design in Node.js](https://github.com/m-ahlstrom/small-javascript-projects/tree/main/api-design-node)
+[API Design in Node.js](https://github.com/m-ahlstrom/small-javascript-projects/tree/main/api-design-node)
 
-An API built with Node.js, Prisma and PostgreSQL for an application, where users can create products, create updates for products and create multiple update points for their updates. Of course, products, updates and update points can all be edited and deleted. A user can only create, update or delete updates and update points if the associated product is created by them.
+An API built with **Node.js**, **Prisma** and **PostgreSQL** for an application, where users can create products, create updates for products and create multiple update points for their updates. Of course, products, updates and update points can all be edited and deleted. A user can only create, update or delete updates and update points if the associated product is created by them.
 
 [Note Taking CLI in Node.js](https://github.com/m-ahlstrom/small-javascript-projects/tree/main/note-taking-cli-node)
 
