@@ -7,6 +7,7 @@ document.addEventListener("DOMContentLoaded", function () {
 		// Create copy button and container element
 		const copyButton = document.createElement("button");
 		copyButton.className = "copy-button";
+		copyButton.setAttribute("aria-label", "code copy button");
 		const container = document.createElement("div");
 		container.className = "code-container";
 
