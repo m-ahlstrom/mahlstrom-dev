@@ -9,6 +9,7 @@ pluralizelisttitles = false
     description = "Hey, I'm Martin. Web developer, Arch user, cybersecurity enthusiast. This is my blog."
     dark_mode = true
     favicon = "/icons/icon-open-source.png"
+    enableSitemap = true
 
     front_page_content = ["posts"]
 
